@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImageNature&show_icons=true&bg_color=00000000)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImageNature&show_icons=true&theme=Gradient)
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ImageNature&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImageNature&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
