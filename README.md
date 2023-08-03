@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-![ImageNature's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImageNature&show_icons=true&theme=Gradient)(https://github.com/anuraghazra/github-readme-stats)
+![ImageNature's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImageNature&show_icons=true&theme=radical)
 ![ImageNature's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImageNature&layout=compact&hide_border=true&langs_count=10)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImageNature&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
